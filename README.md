@@ -1,0 +1,1 @@
+# gradient_text_color
